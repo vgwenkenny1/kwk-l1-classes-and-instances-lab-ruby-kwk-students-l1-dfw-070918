@@ -1,4 +1,4 @@
-Class Person
+def Class Person
 end 
 
 adele_goldberg = Person.new
